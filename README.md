@@ -1,7 +1,7 @@
 # 🏎️ Gulf Website - Next.js - Tailwind CSS
 
 <p align="center">
-  <img src="public/captures/principal-capture.png" alt="Gulf Website Preview" width="100%">
+  <img src="public/images/captures/principal-capture.png" alt="Gulf Website Preview" width="100%">
 </p>
 
 <p align="center">
