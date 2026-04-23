@@ -44,7 +44,6 @@ const Motorcycle = () => {
   return (
     <>
       <Header />
-      <BackToTop />
       <section className="w-full bg-gray-100 py-16 px-4 md:px-12">
         <div className="max-w-7xl mx-auto">
           {/* Ajuste en Grid: 
